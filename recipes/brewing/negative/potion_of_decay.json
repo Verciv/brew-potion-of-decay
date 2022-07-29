@@ -1,0 +1,14 @@
+{
+    "format_version": "1.19.11",
+    "minecraft:recipe_brewing_mix": {
+        "description": {
+            "identifier": "minecraft_brew_awkward_wither_rose"
+        },
+
+        "tags": ["brewing_stand"],
+
+        "input": "minecraft:potion_type:awkward",
+        "reagent": "minecraft:wither_rose",
+        "output": "minecraft:potion_type:wither"
+    }
+}
