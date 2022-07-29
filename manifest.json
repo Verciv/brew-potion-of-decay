@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-      "description": "A behavior pack that adds a way to brew Potions of Decay! (Written By Verciv)",
+      "description": "A behavior pack that adds a way to brew Potions of Decay!",
       "name": "Potions of Decay Brewing Recipe",
       "uuid":"585a1e58-638f-4247-9bdb-3cc5d5edd2b6",
       "version": [1, 0, 0],
